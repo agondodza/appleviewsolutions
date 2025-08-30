@@ -1,0 +1,203 @@
+<!--
+Website Project Done By : Anyway Gondodza
+Project Name : Agency Website  For Ample View Solutions
+Matriculation Number: 9211876
+Year : 2025 
+-->
+<!DOCTYPE html>
+<html>
+<head>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" href="images/AmpleViewFav.png" type="image/x-icon">
+<title>Contact Us</title>
+<!-- CSS Section-->
+<link rel="stylesheet" href="css/ampleview.css">
+
+</head>
+<body>
+<!--Ample Header Starts-->
+<header id="website-header" class="fixed-top">
+<div class="container">
+<nav class="navbar navbar-expand-lg navbar-light">
+<a class="navbar-brand" href="index.html">
+    <img src="images/AmpleViewLogo.png" width="250" height="auto">
+</a>
+            <button class="navbar-toggler collapsed" type="button" data-bs-toggle="collapse"
+                data-bs-target="#navbarScroll" aria-controls="navbarScroll" aria-expanded="false"
+                aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon fa icon-expand fa-bars"></span>
+                <span class="navbar-toggler-icon fa icon-close fa-times"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarScroll">
+                <ul class="navbar-nav ms-auto my-2 my-lg-0 navbar-nav-scroll">
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="index.html">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="about-us.html">About</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="services.html">Services</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="contact-us.html">Contact</a>
+                    </li>
+                </ul>
+
+                
+                <form action="#search" method="GET" class="d-flex search-header ms-lg-2">
+                    <input class="form-control" type="search" placeholder="Find On This Website" aria-label="Search"
+                        required>
+                    <button class="btn btn-style" type="submit"><i class="fas fa-search"></i></button>
+                </form>
+            </div>
+          
+        </nav>
+    </div>
+</header>
+
+<!--Ample Header Ends-->
+
+
+
+<!--Ample Banner Starts-->
+<section class="inner-banner py-5" style="background:rgba(0, 159, 227,1);">
+    <div class="ample-breadcrumb py-lg-0">
+        <div class="container pt-5 pb-sm-4">
+            <h4 class="inner-text-title font-weight-bold pt-sm-4 pt-5" style="color:#fff;">Contact Us</h4>
+            <ul class="breadcrumbs-custom-path">
+                <li><a href="index.html" style="color:#fff;">Home</a></li>
+                <li class="active"><i class="fas fa-angle-right mx-2"></i>Contact Us</li>
+            </ul>
+        </div>
+    </div>
+</section>
+
+<!--Ample Banner Ends-->
+<!--Ample Contact Form  Starts-->
+
+    <section class="ample-contact-info-main py-5" id="contact">
+        <div class="container pt-lg-5 pt-md-4 pt-2" >
+          
+        <div align="center" style="background:rgb(46, 47, 130); border-radius:20px; color:#fff; padding:15px; font-size:22px;">
+      Email Was Successfully Send
+        </div>
+        </div>
+    </section>
+
+<br><br><br>
+
+<!--Ample Contact Form  Ends-->
+
+
+
+<!--Ample Footer Starts-->
+<footer class="footer py-5">
+    <div class="container pt-4">
+        <div class="row">
+            <div class="col-lg-4 sub-one-left">
+                <h4 style="color:#fff; margin-bottom:20px;">About </h4>
+                <img src="images/footer_logo.png" width="250" height="auto" style="margin-bottom:20px;">
+                <p>Ample View Consultancy is a leading IT firm that is based in South Africa, and  specializes in providing comprehensive technology solutions to businesses and organizations. Our expertise spans three key areas: Software, Hardware, and Networking Solutions.</p>
+           
+            </div>
+            <div class="col-lg-5 col-md-6 mt-lg-0 mt-5 px-lg-5 sub-two-right">
+                <h4 style="color:#fff; margin-bottom:20px;">Quicklinks</h4>
+                <div class="footer-post">
+                    <ul>
+                    <li><a href="services.html#software">Software Installations</a></li>
+                  
+                    </ul>
+                </div>
+
+                <div class="footer-post">
+                    <ul>
+                    <li><a href="services.html#hardware">Hardware</a></li>
+                    </ul>
+                </div>
+
+                <div class="footer-post">
+                    <ul>
+                    <li><a href="services.html#networking">Networking Services</a></li>
+                    </ul>
+                </div>
+
+
+                <div class="footer-post">
+                    <ul>
+                    <li><a href="services.html#accounting">Accounting Services</a></li>
+                    </ul>
+                </div>
+       
+
+                <div class="footer-post">
+                    <ul>
+                    <li><a href="about-us.html">About Us</a></li>
+                    </ul>
+                </div>
+
+
+                <div class="footer-post">
+                    <ul>
+                    <li><a href="contact-us.html">Contact Us</a></li>
+                    </ul>
+                </div>
+
+
+            </div>
+            <div class="col-lg-3 col-md-6 mt-lg-0 mt-5 sub-one-left">
+                <h4 style="color:#fff; margin-bottom:20px;">Contact </h4>
+                <div class="column2">
+                    <div class="href1"><a
+                            href="mailto:info@ample-view.com">info@ample-view.com</a>
+                    </div>
+                    <h5 style="color:rgb(0, 159, 227);">South Africa Branch</h5>
+                <div>
+                    <p class="contact-para mb-3">118 Ellen Road Escombe
+                        Queensburgh, Kwazulu Natal, Durban</p>
+                </div>
+                      <div class="href2 my-3"><a
+                        href="tel:+27780371667">+27780371667</a> | <a
+                        href="tel:+27611162260">+27611162260</a>
+                </div>
+                   
+                   
+                <h5 style="color:rgb(0, 159, 227);">Zimbabwe Branch</h5>
+                    <div>
+                        <p class="contact-para mb-3">32991 Mabvazuva Estates, Ruwa Harare</p>
+                    </div>
+    <div class="href2 my-3"><a
+                            href="tel:+263715799052">+263 71 579 9052</a>
+                    </div>
+
+
+
+                    <div>
+                        <p class="contact-para">Office Hours: 9AM - 5:30PM</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class=" text-left mt-5 pt-sm-4 pt-2 copyright-footer" >
+            <p>&copy; 2025 Ample View Solutions. All rights reserved ::::  Site Developed by <a href="#">Ample View IT Department</a>
+            </p>
+        </div>
+    </div>
+</footer>
+
+<!--Ample Footer  Ends-->
+
+
+
+<!-- JS Section-->
+<script src="js/jquery-3.3.1.min.js"></script>
+<script src="js/slider.js"></script>
+<script src="js/bootstrap.min.js"></script>
+</body>
+</html>
+
+
+
